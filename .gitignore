@@ -7,3 +7,6 @@ cmake-build-release/
 
 # IDE
 .vscode/
+
+# Build
+build/
